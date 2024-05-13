@@ -1,8 +1,6 @@
 ### Olá, me chamo João Vitor Abreu. 
 ## Seja bem-vindo(a) ao meu perfil!
 
-##
-
 ### Contatos:
 
 <div>  
