@@ -6,7 +6,8 @@
 <div>  
   <a href="https://www.linkedin.com/in/araujo-vitor-abreu/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/ara.jv" /><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="mailto:joaovtdeabreu@gmail.com" /><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+  <a href="mailto:joaovtdeabreu@gmail.com" /><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank">
+  </a>
 </div>
 
 ##
@@ -25,4 +26,5 @@
 <div align="center">
   <img align="center" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" height="60" width="50" src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original-wordmark.svg" />
+  <img align="center" height="60" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" />
 </div>
