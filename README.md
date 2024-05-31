@@ -15,7 +15,7 @@
   <a href="https://github.com/seu-usuário-aqui">
   <img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api?username=abrVit&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" />
   <div>
-    <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrVit&layout=compact&langs_count=7&theme=cobalt" />
+    
 </div>
 
 ##
