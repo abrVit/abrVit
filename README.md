@@ -7,6 +7,7 @@
 
 > Programador Back-end.
 
+
 ##
 
 ### Contatos:
@@ -32,7 +33,8 @@
 
 <div style="displa: inline_block"><br>
 <div align="center">
-  <img align="center" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img align="center" height="60" width="50" src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original-wordmark.svg" />
-  <img align="center" height="60" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img align="center" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original-wordmark.svg" />
+  <img align="center" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" height="60" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />
 </div>
