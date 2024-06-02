@@ -3,7 +3,7 @@
 
 ### Sobre mim
 
-> Graduando em ciência da computação, pela faculdade IBMR.
+> Graduando em ciência da computação, pela faculdade IBMR (3/8).
 
 > Programador Back-end.
 
