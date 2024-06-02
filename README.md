@@ -15,7 +15,6 @@
 <div>  
   <a href="https://www.linkedin.com/in/araujo-vitor-abreu/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/ara.jv" /><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="mailto:joaovtdeabreu@gmail.com" /><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank">
   <a href="https://x.com/JaVa_itor"><img src="https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=X">
   </a>
 </div>
