@@ -13,7 +13,7 @@
 ### Contatos:
 
 <div>  
-  <a href="https://www.linkedin.com/in/araujo-vitor-abreu/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"     
+  <a href="https://www.linkedin.com/in/jvitorabreu/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"     
   target="_blank"></a>
   <a href="https://instagram.com/ara.jv" /><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   </a>
