@@ -6,7 +6,7 @@
 > Graduando em ciência da computação, pela faculdade IBMR.
 > <p align="left"><img src="http://img.shields.io/static/v1?label=PERIODO:&message=QUINTO&color=GREEN&style=for-the-badge"/></p>
 
-> Programador Back-end.
+> Programador Java Back-end.
 
 ##
 
