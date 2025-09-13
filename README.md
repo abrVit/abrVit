@@ -36,4 +36,5 @@
   <img align="center" height="60" width="40" src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original-wordmark.svg" />
   <img align="center" height="60" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" height="60" width="30" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />
+  <img align="center" height="60" width="30" src="https://raw.github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
 </div>
