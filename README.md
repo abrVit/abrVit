@@ -3,7 +3,7 @@
 
 ### Sobre mim
 
-> Graduando em ciência da computação, pela faculdade IBMR.
+> Graduando em Ciência da Computação, pela faculdade IBMR.
 > <p align="left"><img src="http://img.shields.io/static/v1?label=PERIODO:&message=SETIMO&color=GREEN&style=for-the-badge"/></p>
 
 > Programador Java Back-end.
