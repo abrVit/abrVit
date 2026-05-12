@@ -32,7 +32,8 @@
 
 <div style="displa: inline_block"><br>
 <div align="center">
-  <img align="center" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img align="center" height="60" width="40", src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original-wordmark.svg" />
+  <img align="center" height="60" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" />
   <img align="center" height="60" width="40" src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original-wordmark.svg" />
   <img align="center" height="60" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" height="60" width="30" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />
